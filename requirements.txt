@@ -1,0 +1,37 @@
+# Core dependencies
+fastapi
+uvicorn
+streamlit
+python-dotenv
+requests
+tqdm
+
+# Google Calendar + Auth
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+httplib2
+uritemplate
+
+# LangChain & related
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langsmith
+
+# Parsing and Scheduling
+dateparser
+
+# Optional NLP or ML libraries (used if needed)
+torch
+torchaudio
+torchvision
+
+# Other useful libs
+pandas
+python-dateutil
+pydantic
+typing-extensions
+openai
