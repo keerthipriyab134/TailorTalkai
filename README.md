@@ -42,6 +42,6 @@ GOOGLE_CALENDAR_ID=your_calendar_id_here
 Also, place your Google service account JSON file (e.g., service_account.json) in the project root.
 
 
-![ss3](https://github.com/user-attachments/assets/3d9e36c5-9cf8-4919-8563-2a1756fd1958)
-![ss2](https://github.com/user-attachments/assets/a9e10381-117b-4e77-b61a-30496501ffc4)
-![ss1](https://github.com/user-attachments/assets/c828f6ca-b37d-47b9-8eaa-b62ce874a60e)
+![ss3](https://github.com/user-attachments/assets/14bddfb9-8b3e-4db3-8c22-345134de15da)
+![ss2](https://github.com/user-attachments/assets/2b6acda7-9ce0-4587-8af9-82956228e8fc)
+![ss1](https://github.com/user-attachments/assets/4f98618e-f528-4204-9c9e-a103db11fb3d)
